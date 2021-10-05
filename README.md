@@ -4,7 +4,7 @@
 
 ### Mission plan:
 
-1 - Compile every page of the Volkstestament
+~~1 - Compile every page of the Volkstestament~~
 
 2 - Transcribe each page, having a individual transcription of each page
 
